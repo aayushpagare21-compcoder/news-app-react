@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 13665,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Madshrimps.be" },
+      "author": "Stefan Mileschin",
+      "title": "Tesla EVs can now scan the road for potholes and adjust the suspension height",
+      "description": "Tesla has introduced a software update that allows its vehicles to scan for potholes, broken pavement and other defects, Electrek has reported. It can then use that to generate \"rough road map data,\" and trigger the adaptive suspension in supported vehicles t…",
+      "url": "http://www.madshrimps.be/news/item/215828",
+      "urlToImage": null,
+      "publishedAt": "2022-07-05T06:32:58Z",
+      "content": "Copyright © 2001-2011 Madshrimps, All rights reserved.Graphic Design by Dennis Kestelle, Programming by Maarten Menten,\r\nOverall Site design by John Meys\r\nAll information and graphics contained in Ma… [+135 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Overclockers.ru" },
+      "author": "Алексей Сычёв",
+      "title": "Tesla продемонстрировала прицеп, от которого можно заряжать электромобиль в чистом поле",
+      "description": "Или в грязном – как повезёт.",
+      "url": "https://overclockers.ru/hardnews/show/119602/tesla-prodemonstrirovala-pricep-ot-kotorogo-mozhno-zaryazhat-elektromobil-v-chistom-pole",
+      "urlToImage": "https://overclockers.ru/st/images/preview/i3EV04E78LJMz06m.jpg",
+      "publishedAt": "2022-07-05T06:09:00Z",
+      "content": "Electrek, Tesla , .\r\n, 2,7 . , 80 , . Tesla , , (Elon Musk) . , ."
+    },
+    {
+      "source": { "id": "focus", "name": "Focus" },
+      "author": "Von Gastautor Gabor Steingart",
+      "title": "Gastbeitrag von Gabor Steingart - Volkswagen: Probleme über Probleme, doch Konzernboss Diess macht Kampfansage",
+      "description": "Managementfehler, China-Ärger, Börse-Schwäche: Volkswagen hat derzeit viele Probleme. Die Aufholjagd zum reinrassigen E-Autohersteller Tesla hat begonnen, aber spiegelt sich in den Verkaufsstatistiken kaum wider. Hier äußert sich VW-Lenker Herbert Diess zu de…",
+      "url": "https://www.focus.de/finanzen/gastbeitrag-von-gabor-steingart-vw-aufsichtsrat-6-probleme-was-der-ceo-dazu-sagt_id_110633504.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_110631619/vw.png?im=Crop%3D%280%2C33%2C744%2C372%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=medium&hash=e28fb2cc664b5bd4c174ccff076e811ddba36d4a152494f70c968b6f69378d65",
+      "publishedAt": "2022-07-05T06:07:51Z",
+      "content": "Managementfehler, China-Ärger, Börse-Schwäche: Volkswagen hat derzeit viele Probleme. Die Aufholjagd zum reinrassigen E-Autohersteller Tesla hat begonnen, aber spiegelt sich in den Verkaufsstatistike… [+8766 chars]"
+    }
+  ]
+}
