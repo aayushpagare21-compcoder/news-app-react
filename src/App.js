@@ -2,14 +2,14 @@ import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import NewsComponent from "./components/NewsComponent";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import LoadingBar from "react-top-loading-bar";
 
 export default class App extends Component {
   render() {
     return (
       <>
         <BrowserRouter>
-          <Navbar />
+          <Navbar /> 
+          <NewsComponent category="general" heading="News-Home"/>
           <Routes>
             <Route exact path="/" element={<NewsComponent key="home" category="general" heading="News-Home"/>}></Route>
             <Route exact path="/business"  element={<NewsComponent key="business" category="business" heading="News-Business"/>}> </Route> 
