@@ -9,7 +9,6 @@ export default class App extends Component {
       <>
         <BrowserRouter>
           <Navbar /> 
-          <NewsComponent category="general" heading="News-Home"/>
           <Routes>
             <Route exact path="/" element={<NewsComponent key="home" category="general" heading="News-Home"/>}></Route>
             <Route exact path="/business"  element={<NewsComponent key="business" category="business" heading="News-Business"/>}> </Route> 
