@@ -16,7 +16,7 @@ export class NewsComponent extends Component {
 
   //Runs after render
   async componentDidMount() {
-    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&apiKey=${process.env.REACT_APP_API_KEY}&pageSize=9&page=${this.state.page}`;
+    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&apiKey=58f9aefd017649859c54eb53cca9458d&pageSize=9&page=${this.state.page}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -24,7 +24,7 @@ export class NewsComponent extends Component {
   }
 
   updateNews = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&apiKey=${process.env.REACT_APP_API_KEY}&pageSize=9&page=${this.state.page}`;
+    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&apiKey=58f9aefd017649859c54eb53cca9458d&pageSize=9&page=${this.state.page}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
